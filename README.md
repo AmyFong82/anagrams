@@ -1,2 +1,2 @@
 # anagrams
-Improving on an anagram js code
+Task: to improve an anagram js code
